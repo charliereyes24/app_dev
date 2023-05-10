@@ -1,4 +1,5 @@
-<head>
+<html>
+	<head>
 	<h1><title>My Favorite Series</title></h1>
 	</head>
 <body> 
@@ -6,4 +7,4 @@
 
 </body>
 
-
+</html>
