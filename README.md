@@ -3,7 +3,7 @@
 	<title>My Favorite Series</title>
 	</head>
 <body> 
-	<b><p>Wonder Pets</p></b>
+	<h3><p>Wonder Pets</p></h3>
 
 </body>
 
